@@ -4,6 +4,11 @@
 The primary aim of this project is to come up with a system that accurately classifies whether an aircraft is high-risk or low-risk based on the model and brand's history of accidents and incidents. 
 This project will help come up with actionable insights that will accurately advise and guide the head of the new aviation division to make accurate and data-driven decisions on the purchase and operation of airplanes for commercial and private enterprises as the company ventures into this new business endeavor. 
 
+### Project links
+To view an interactive visualization of the project, use this [link](https://public.tableau.com/views/AircraftPurchaseRecommendations/Aircraftpurchaserecommendations?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+For a simplified version, the presentation will serve you, to access it use this [link](https://1drv.ms/p/c/9fb0e9e462d93906/EaN9nBCmFZtGifZ0iCipkx4Blo7dZvK-YKd2KBSa6Twxlg?e=sjNwsY). 
+
 ## Business understanding
 ### Business problem
 According to aviation and plane crash statistics, the odds of an airplane crashing are approximately 0.000001%. Out of 816,545,929, the chance of being killed in a plane crash is 1.
