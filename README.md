@@ -55,26 +55,28 @@ After thorough analysis and increased attention to the details, I decided to use
 
 ## Recommendations
 ### Models and makes
-After thorough analysis of the `Filtered_Aviation_data` on Aviation accidents databases and synopses, I strongly recommend that the head of the new aviation division consider purchasing the 'Sportsman', 'Lancair O-200', '205A', 'PARSONS STILES GYRO', 'T210 - H', 'L-18C', 'BATHTUB', 'CGS HAWK ARROW II', 'PA-28-140B', 'TopDog Ultralight', 'DAVIS DA-2A', 'SKY RAIDER 1', 'High Tow', 'AVID C AEROBAT', 'Lancair 360A', '400', '112', 'PA-12', '108-2', 'FBA 2C2', 'PA 24-250', 'D55', '182C', 'Hawker 800XP', 'PA-32-301', 'C46', '210M', 'Mystere Falcon 900', 'NA-265-80', 'G21models', 'A119', 'DA 20-C1', 'A 1', '152', 'SA319B Alouette III', 'PA 18', 'CH-54A', 'TU206G', 'MT-7-235', 'A4L', 'P.68', 'PA-32-300', 'S2T-T65', '500', '47G' models. These models have demonstrated the lowest operational risk among thousands of comparable aircraft, showing exceptional reliability and minimal accident rates even after the industry's advancements and significant strides, as well as advanced technology.
+After thorough analysis of the `Filtered_Aviation_data` on Aviation accidents databases and synopses, I strongly recommend that the head of the new aviation division consider purchasing the 'MBB BK 117 C-2', 'UH 1H', '500D', 'H500D', '207', 'HAWKER', 'L-39', 'Prescott Pusher', 'M20E', '2T 1A', 'ZENAIR CH 701 SP', 'CRICKET MC12', 'Super Cub Replica', 'DH-82-C', and 'Navion H' models. These models have demonstrated the lowest operational risk among thousands of comparable aircraft, showing exceptional reliability and minimal accident rates even after the industry's advancements and significant strides, as well as advanced technology.
 
-Also, I recommend purchasing models from 'Lantz', 'Girard', 'Honda Aircraft', 'Sea & Sky Inc Dba Krucker Acft', 'Steven Hardie', 'Wright B Flyer Inc', 'Stuhlmiller Robert', 'Raytheon Company', 'Caldwell', 'Maxair Drifter', 'Texas Helicopter Corporation', 'Trusty', 'Motley Gary W', 'Martin/Harris' and 'Michael Burton' aircraft manufactures. These makes have been proven to have the lowest risks based on their low accident rates.
+Also, I recommend that the head of the new avation division consider purchasing models from 'Brinkerhuff Gerald G', 'Backovich George C', 'Kolb Aircraft Co', 'Roberts Bruce W', 'Purvis', 'Cano Dave', 'Zivko', and 'Terrence A. Sack' aircraft manufactures. These makes have been proven to have the lowest risks based on their low accident rates.
 
-Having identified these makes and models from a sea of records, I strongly believe that safety records, combined with modern and advanced flight systems, make the above models and makes the ideal choices for companies starting their aviation journey. These models and makes will also help maximize operations, positioning the company for growth.  
+Having identified these makes and models from a sea of records, I strongly believe that safety records, combined with modern and advanced flight systems, make the above models and makes the ideal choices for companies starting their aviation journey. These models and makes will also help maximize operations, positioning the company for growth.
 
-![Result 1](https://github.com/user-attachments/assets/e12c353f-5d04-4161-95b0-07d999617392)
+![models 1](https://github.com/user-attachments/assets/82ced35a-6101-4524-976c-0072cbf53d28)
 
 ### Commercial and private aircraft
-The project at hand looks to identify low-risk aircraft for commercial and private use. After carefully analyzing the data, I have identified aircraft that I strongly recommend the head of the new aviation division consider using for the two intended purposes. I recommend the uses of the 'Sportsman', 'Lancair O-200', '205A', 'PARSONS STILES GYRO', 'T210 - H', 'L-18C', 'BATHTUB', 'CGS HAWK ARROW II', 'PA-28-140B', 'TopDog Ultralight', 'DAVIS DA-2A', 'SKY RAIDER 1', 'High Tow', 'AVID C AEROBAT' and 'Lancair 360A' models for Private use. 
+The project at hand looks to identify low-risk aircraft for commercial and private use. After carefully analyzing the data, I have identified aircraft that I strongly recommend the head of the new aviation division consider using for the two intended purposes. I recommend the use of the 'ZENAIR CH 701 SP', 'CRICKET MC12', 'Super Cub Replica', 'DH-82-C', and 'Navion H' models for Private use. 
 
 The models above were used for personal flights. Personal flight refers to a flight operated for private or individual purposes, rather than for commercial or business travel. This can include leisure travel, flying for recreation, or even flights related to hobbies or personal events. It is based on the meaning and the low-risk aspect that I recommend the aircraft above for this purpose.
 
-For commercial use, I recommend the use of the 'A119', 'DA 20-C1', 'A 1', '152', 'SA319B Alouette III', 'PA 18', 'CH-54A', 'TU206G', 'MT-7-235', 'A4L', 'P.68', 'PA-32-300', 'S2T-T65', '500' and '47G' models.  As the name suggests, these models were built and designed for that purpose.
+For commercial use, I recommend the use of the 'MBB BK 117 C-2', 'UH 1H', '500D', 'H500D', and '207' models.  As the name suggests, these models were built and designed for that purpose.
 
-The last recommendation on the purpose of aircraft, I recommend the use of the '400', '112', 'PA-12', '108-2', 'FBA 2C2', 'PA 24-250', 'D55', '182C', 'Hawker 800XP', 'PA-32-301', 'C46', '210M', 'Mystere Falcon 900', 'NA-265-80', 'G21models' models for both of the intended purposes. These aircraft can serve either the purposes of commercial or private flights. 
+The last recommendation on the purpose of aircraft, I recommend the use of the 'HAWKER', 'L-39', 'Prescott Pusher', 'M20E', and '2T 1A' models for both of the intended purposes. These aircraft can serve either the purposes of commercial or private flights. 
 
 These models, when used for the specified purposes, could maximize operations to grow in the increasingly competitive market.
 
-![Result 1 1](https://github.com/user-attachments/assets/a5f5e6ba-5174-4eb4-955b-4d336ba284ee)
+![models](https://github.com/user-attachments/assets/6f65cb7a-cdad-4676-8c0c-27d6cb245a51)
+
+***Disclaimer*** It is important to note that these recommendations are just a handful of the low-risk models and make. To find more aircraft and make that would suit your budget, the head of the new aviation could use [tableau visualizations](https://public.tableau.com/views/AircraftPurchaseRecommendations/Aircraftpurchaserecommendations?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to find aircraft that match the company's budget.
 
 ### Engine type
 A good purchase goes hand in hand with maintenance, as much as purchasing a low risk aircraft looks at the safety aspect of the aircraft, it also focuses on costs and longterm suitability. It is at the back of these aspects that I strongly recommend Long Range 'LR' and electric engines to be considered as the engine types for the models to be purchased.
