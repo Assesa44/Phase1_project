@@ -7,7 +7,7 @@ This project will help come up with actionable insights that will accurately adv
 ## Business understanding
 ### Business problem
 According to aviation and plane crash statistics, the odds of an airplane crashing are approximately 0.000001%. Out of 816,545,929, the chance of being killed in a plane crash is 1.
-Most factors that contribute to airplane crashes are normally out of human control, such as weather conditions, however, factors that play significant roles in accident risks are aircraft model, maintenance and oversight, all things that are humanly possible to control.
+Most factors that contribute to airplane crashes are normally out of human control, such as weather conditions, however, factors that play significant roles in accident risks are aircraft model, maintenance, and oversight, all things that are humanly possible to control.
 
 Making purchases, especially when a company ventures into a business they have no expertise, can prove to be daunting. This being the foundational phase of a business, having expert advice significantly increases the chances of having a successful business. However, as much as human knowledge is valuable, it is also subjective and prone to biases. There is a pressing need to have a more scientific and evidence-based approach to help aviation businesses make informed decisions when making purchases.
 
@@ -16,12 +16,12 @@ Making purchases, especially when a company ventures into a business they have n
 2. What actionable insights can I offer the head of the new aviation division to help decide which aircraft to purchase?
 
 ### Stakeholders
-1. Head of the new aviation division: the head of the new aviation division will use the recommendations to guide his decisions on the purchases for the new business enterprises for commercial and private uses.
+1. Head of the new aviation division: The head of the new aviation division will use the recommendations to guide his decisions on purchasing new business enterprises for commercial and private use.
 2. Aviation companies: Companies wanting to upgrade will use this project to guide their upgrades, as well as their maintenance and oversight
 
 ## Data understanding
 ### Data source
-In this repository, under the file path `Data` there are 2 CSV files containing information about aviation accidents and incidents that happened between 1948 and 2022 documented by the USA National Transport Safety Board (NTSB).
+In this repository, under the file path `Data,` there are 2 CSV files containing information about aviation accidents and incidents documented by the USA National Transportation Safety Board (NTSB) between 1948 and 2022.
 
 The NTSB aviation accident database, `AviationData.csv`, contains information from 1948 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 `USState_Codes.csv` file contains information about the US states and their abbreviations.
@@ -58,7 +58,7 @@ These models, when used for the specified purposes, could maximize operations to
 ### Engine type
 A good purchase goes hand in hand with maintenance, as much as purchasing a low risk aircraft looks at the safety aspect of the aircraft, it also focuses on costs and longterm suitability. It is at the back of these aspects that I strongly recommend Long Range 'LR' and electric engines to be considered as the engine types for the models to be purchased.
 
-According to my analysis, the two engined recommended have accident rates on less than 5 in 22 years. This proves the engines' suitability for the longterm operations, eradicating the need for costly maintenance repairs that would otherwise dig holes into the company's pockets.
+According to my analysis, the two-engine recommended models have accident rates of less than 5 in 22 years. This proves the engines' suitability for the long-term operations, eradicating the need for costly maintenance repairs that would otherwise dig holes into the company's pockets.
 
 ![Result 3](https://github.com/user-attachments/assets/64b4f657-074e-4150-819c-b4f1bedf7825)
 
