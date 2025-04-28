@@ -4,10 +4,8 @@
 The primary aim of this project is to come up with a system that accurately classifies whether an aircraft is high-risk or low-risk based on the model and brand's history of accidents and incidents as documented in [kaggle](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses). 
 This project will help come up with actionable insights that will accurately advise and guide the head of the new aviation division to make accurate and data-driven decisions on the purchase and operation of airplanes for commercial and private enterprises as the company ventures into this new business endeavor. 
 
-### Project links
-To view an interactive visualization of the project, use this [link](https://public.tableau.com/views/AircraftPurchaseRecommendations/Aircraftpurchaserecommendations?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
-For a simplified version, the presentation will serve you, to access it use this [link](https://1drv.ms/p/c/9fb0e9e462d93906/EaN9nBCmFZtGifZ0iCipkx4Blo7dZvK-YKd2KBSa6Twxlg?e=sjNwsY). 
+### Project files
+For a simplified version, the presentation will serve you. To access it, use this [link](https://1drv.ms/p/c/9fb0e9e462d93906/EaN9nBCmFZtGifZ0iCipkx4Blo7dZvK-YKd2KBSa6Twxlg?e=sjNwsY). 
 
 ## Business understanding
 ### Business problem
@@ -61,8 +59,6 @@ Also, I recommend that the head of the new avation division consider purchasing 
 
 Having identified these makes and models from a sea of records, I strongly believe that safety records, combined with modern and advanced flight systems, make the above models and makes the ideal choices for companies starting their aviation journey. These models and makes will also help maximize operations, positioning the company for growth.
 
-![models 1](https://github.com/user-attachments/assets/82ced35a-6101-4524-976c-0072cbf53d28)
-
 ### Commercial and private aircraft
 The project at hand looks to identify low-risk aircraft for commercial and private use. After carefully analyzing the data, I have identified aircraft that I strongly recommend the head of the new aviation division consider using for the two intended purposes. I recommend the use of the 'ZENAIR CH 701 SP', 'CRICKET MC12', 'Super Cub Replica', 'DH-82-C', and 'Navion H' models for Private use. 
 
@@ -74,24 +70,27 @@ The last recommendation on the purpose of aircraft, I recommend the use of the '
 
 These models, when used for the specified purposes, could maximize operations to grow in the increasingly competitive market.
 
+![models 1](https://github.com/user-attachments/assets/82ced35a-6101-4524-976c-0072cbf53d28)
+
 ![models](https://github.com/user-attachments/assets/6f65cb7a-cdad-4676-8c0c-27d6cb245a51)
 
-***Disclaimer*** It is important to note that these recommendations are just a handful of the low-risk models and make. To find more aircraft and make that would suit your budget, the head of the new aviation could use [tableau visualizations](https://public.tableau.com/views/AircraftPurchaseRecommendations/Aircraftpurchaserecommendations?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to find aircraft that match the company's budget.
-
 ### Engine type
-A good purchase goes hand in hand with maintenance, as much as purchasing a low risk aircraft looks at the safety aspect of the aircraft, it also focuses on costs and longterm suitability. It is at the back of these aspects that I strongly recommend Long Range 'LR' and electric engines to be considered as the engine types for the models to be purchased.
+A good purchase goes hand in hand with maintenance. As much as purchasing a low-risk aircraft looks at the safety aspect of the aircraft, it also focuses on costs and long-term suitability. Because of these aspects, I strongly recommend that Long-Range 'LR' and electric engines be considered the engine types for the models to be purchased.
 
-According to my analysis, the two-engine recommended models have accident rates of less than 5 in 22 years. This proves the engines' suitability for the long-term operations, eradicating the need for costly maintenance repairs that would otherwise dig holes into the company's pockets.
+According to my analysis, the two-engine recommended models have accident rates of less than 5 in 22 years. This proves the engines' suitability for long-term operations, eradicating the need for costly maintenance repairs that would otherwise drain the company's pockets.
 
 ![Result 3](https://github.com/user-attachments/assets/64b4f657-074e-4150-819c-b4f1bedf7825)
 
+## Interactive Dashboard
+It is important to note that these recommendations are just a handful of the low-risk models and make. 
+To find more aircraft and make that would suit your preference, the head of the new aviation could explore the [dashboard](https://public.tableau.com/views/AircraftPurchaseRecommendations/Aircraftpurchaserecommendations?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to find aircraft that match the company's preference.
 
 ## Conclusion
 #### Overview
 The project was meant to come up with a system that accurately classifies whether an aircraft is high-risk or low-risk based on the model and brand's history of accidents and incidents and identify and recommend low-risk aircraft to help and guide the head of the new aviation division to purchase aircraft for the company's new business endeavor.
 
 #### Key Findings
-After the processes of Explorative Data Analysis and data cleaning, I identified over 15 aircraft models, 10 makes and 2 engine types that proved to be low-risk and recommended them to the head of the new aviation division, and specified the use of each and every model for the purchase of aircraft for commercial and private use. 
+After the processes of Explorative Data Analysis and data cleaning, I identified over 15 aircraft models, 10 makes and 2 engine types that proved to be low-risk and recommended them to the head of the new aviation division, and specified the use of each model for the purchase of aircraft for commercial and private use. 
 
 #### Impact
 The project wll help the head of the new aviation division prioritize aircraft with the best safety records, reducing the likelihood of accidents or incidents, which in turn will boost passenger confidence. It will also help reduce financial costs, a low-risk aircraft means less unscheduled repairs and lower insuarance costs, which will help the company save money.
@@ -99,5 +98,12 @@ The project wll help the head of the new aviation division prioritize aircraft w
 For companies starting up in the business, this project will help them make data-driven decisions, which will eliminate the need for costly expert advisors who may have their agendas. Many times, experts already have companies that they recommend to their clients, to whom they are biased towards; this project aims to eradicate any biases and generate recommendations that will be evidence-based.
 
 Additionally, it will enhance their business outcomes. High-risk aircraft can prove to be costly, when airline plane crashes, the immediate business impact involves significant financial losses, reputational damage, and potential long-term operational challenges. Having accurate information on low risk models help them avert these crises in the future.
+
+### Navigating the repository
+1. Access the data in use, `AviationData.csv` and `USState_Codes.csv`, in the `Data/` directory.
+2. Find the Jupyter Notebook in the `Notebook.ipynb` file.
+3. `project_presenation.pptx` contains the project's presentation.
+4. Access the interactive dashboard in the `Interactive_viz.html` file.
+5. Find large and sensitive files in the `.gitignore` file.  
 
 # END/
