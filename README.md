@@ -1,7 +1,7 @@
 # AIRCRAFT PURCHASE RECOMMENDATIONS
 
 ## Project overview
-The primary aim of this project is to come up with a system that accurately classifies whether an aircraft is high-risk or low-risk based on the model and brand's history of accidents and incidents. 
+The primary aim of this project is to come up with a system that accurately classifies whether an aircraft is high-risk or low-risk based on the model and brand's history of accidents and incidents as documented in [kaggle](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses). 
 This project will help come up with actionable insights that will accurately advise and guide the head of the new aviation division to make accurate and data-driven decisions on the purchase and operation of airplanes for commercial and private enterprises as the company ventures into this new business endeavor. 
 
 ### Project links
@@ -36,6 +36,22 @@ This dataset is most suitable for this particular project as it contains informa
 ### Data description
 The dataset contains structured data in 31 columns and 88889 rows. Out of 31 columns, only 4 columns contain the full 88889 records; the rest are either missing or have as few as a hundred plus records to as many as seven thousand records.
 The dataset has 5 columns containing the `float64` data type and 26 columns containing the `object` data type, and contains 938 duplicate records.
+
+### Exploratory data analysis
+ Digging deeper into the dataset, I looked at each column closely, visualizing them to understand their contents in depth, and identifying the relationships between the columns. This process helped me identify the most relevant columns for the project. I used bargraphs for individual columns, to compare the contents within and also used correlation to identify the relationship between the columns. 
+
+## Data analysis
+After thorough analysis and increased attention to the details, I decided to use the following columns for my analysis;
+
+1. `Model` - As the project is about identifying aircraft to purchase, this was the most relevant column. The column contains information about the models of the aircraft that have been involved in accidents, helping me pinpoint the exact aircraft to purchase, providing insight into what models are prone to accidents and which ones are not.
+
+2. `Make` - Next to `Model`, this was the other important column. This column contains information about which models belong to which make. Several makes have the same types of models, which helped identify which make the company should purchase a model from.
+
+3. `Engine.Type` - This column contains information about the kind of engines the aircraft had. It is important for purposes of maintenance, as it will help identify what engines are most favourable to have on an aircraft.
+
+4. `Year` - This contains information about what year an accident took place in. This will help monitor aircraft advancement through the years. It is important to look at the years as they provide another perspective other than `Model` and `Make`. Through the years, aircraft have gone through advancements, and it is important to look at that as well, instead of making a decision based on only one aspect.
+
+5. `Purpose.of.flight` - To find out the use of an aircraft, we need to know its purpose. This column contains information about the purpose of the aircraft, It is important because it will help identify if the aircraft is for commercial or private use.
 
 ## Recommendations
 ### Models and makes
