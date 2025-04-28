@@ -91,7 +91,7 @@ According to my analysis, the two-engine recommended models have accident rates 
 The project was meant to come up with a system that accurately classifies whether an aircraft is high-risk or low-risk based on the model and brand's history of accidents and incidents and identify and recommend low-risk aircraft to help and guide the head of the new aviation division to purchase aircraft for the company's new business endeavor.
 
 #### Key Findings
-After the processes of Explorative Data Analysis and data cleaning, I identified over 40 aircraft models, 15 makes and 2 engine types that proved to be low-risk and recommended them to the head of the new aviation division, and specified the use of each and every model for the purchase of aircraft for commercial and private use. 
+After the processes of Explorative Data Analysis and data cleaning, I identified over 15 aircraft models, 10 makes and 2 engine types that proved to be low-risk and recommended them to the head of the new aviation division, and specified the use of each and every model for the purchase of aircraft for commercial and private use. 
 
 #### Impact
 The project wll help the head of the new aviation division prioritize aircraft with the best safety records, reducing the likelihood of accidents or incidents, which in turn will boost passenger confidence. It will also help reduce financial costs, a low-risk aircraft means less unscheduled repairs and lower insuarance costs, which will help the company save money.
